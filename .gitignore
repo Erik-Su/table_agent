@@ -1,14 +1,9 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
+# Virtual Environment
 venv/
-.env
-
-# Data
-doc/
-result/
-template/
+__pycache__/
 
 # OS
 .DS_Store
+
+# Security (Recommended to keep ignored)
+.env
